@@ -1,0 +1,7 @@
+-👋 ¡Hola! Soy @Franciscooxz
+-👀 Me interesa desarrollar software y aprender nuevas tecnologíasm, tambien todo lo que tiene que ver con la fisica y la astrofisica.
+-🌱 Actualmente estoy aprendiendo Laravel y mejorando mis habilidades en Flutter, tambien react y angular.
+-💞️ Estoy buscando colaborar en proyectos de código abierto relacionados con aplicaciones web o móviles.
+-📫 Puedes contactarme a través de mi perfil de GitHub e insagram (franciscojdz02).
+-😄 Pronombres: Él/él
+-⚡ Dato curioso: ¡Me gusta mucho la astronomia y los juegos!
