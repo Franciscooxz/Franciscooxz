@@ -3,6 +3,9 @@
 ### Desarrollador apasionado de Javascript y tecnología 🚀
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/francisco-diaz-4675732b8" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Franciscooxz&label=Visitas al perfil&color=0e75b6&style=flat" alt="Franciscooxz" />
 </p>
 
@@ -39,7 +42,7 @@
   <a href="https://github.com/Franciscooxz" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/Francisco Diaz" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-diaz-4675732b8" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
