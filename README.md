@@ -10,13 +10,14 @@
 - **Agrovision:** plataforma web AgTech  
 - **Astroguide / Astroleap:** app de astronomía educativa  
 - **RankHunter:** plataforma de rankings de Videojuegos competitivos 
-- **Discord Bots Projects:** bots para comunidades y automatización  
+- **Discord Bots Projects:** bots para comunidades y automatización
+- **NEO Tracker:** Sistema de monitoreo en tiempo real de asteroides cercanos a la Tierra usando datos oficiales de la NASA. 
 
 ## 🌱 Actualmente estoy aprendiendo
 - **MongoDB** – Bases de datos NoSQL  
 - **NestJS** – Backend moderno con TypeScript  
 - **Flutter avanzado** – Animaciones, integración con APIs y Firebase  
-- **Machine Learning / AI** – Aplicaciones prácticas en Agrovision  
+- **Machine Learning / AI** – Aplicaciones prácticas en Agrovision
 
 ## 📫 Cómo contactarme
 - **Correo:** frandiazzxz@gmail.com  
