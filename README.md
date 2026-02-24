@@ -1,81 +1,140 @@
-# Hola 🌌​, Soy Fran Diaz  
-### Un apasionado desarrollador de Javascript   
+<div align="center">
+
+# Hola, soy Fran Díaz 👋
+
+**Full Stack Developer · Colombia 🇨🇴**
+
+Construyo soluciones digitales escalables — del frontend al backend, de la web al móvil.  
+Código limpio, APIs REST, buenas prácticas y un poco de astronomía en el camino. 🔭✨
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Diaz-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/Francisco-Diaz)
+[![Email](https://img.shields.io/badge/Email-frandiazzxz%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:frandiazzxz@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Franciscooxz?label=Seguidores&style=flat-square)](https://github.com/Franciscooxz)
+![Profile Views](https://komarev.com/ghpvc/?username=Franciscooxz&color=58A6FF&style=flat-square&label=Visitas)
+
+</div>
+
 ---
 
-- Desarrollador de software en Colombia, participando activamente en diversos proyectos tecnológicos y construyendo soluciones enfocadas en aprendizaje continuo, calidad y evolución constante.
+## 🚀 Proyectos Activos
+
+| Proyecto | Descripción | Stack | Estado |
+|----------|-------------|-------|--------|
+| 🌱 [**Agrovision**](https://github.com/Franciscooxz/Agrovision) | Plataforma web AgTech con ML | React + Python + AI | 🔨 En desarrollo |
+| 🔭 **Astroguide / Astroleap** | App de astronomía educativa | Flutter + Firebase | 🔨 En desarrollo |
+| 🎮 [**RankHunter**](https://linkedin.com/in/Francisco-Diaz) | Rankings de videojuegos competitivos | NestJS + MongoDB | 🔒 Privado · Ver en LinkedIn |
+| ☄️ [**NEO Tracker**](https://github.com/Franciscooxz/Neo_Tracker) | Monitoreo en tiempo real de asteroides NASA | Node.js + NASA API | ✅ Activo |
+| 🤖 [**Overwatch Quiz Bot**](https://github.com/Franciscooxz/overwatch-quiz-bot) | Bot de trivia de Overwatch para Discord | Node.js + Discord.js | 🔧 En mejora |
 
 ---
 
-## 🔭 Proyectos actuales
-- **Agrovision:** plataforma web AgTech  
-- **Astroguide / Astroleap:** app de astronomía educativa  
-- **RankHunter:** plataforma de rankings de Videojuegos competitivos 
-- **Discord Bots Projects:** bots para comunidades y automatización
-- **NEO Tracker:** Sistema de monitoreo en tiempo real de asteroides cercanos a la Tierra usando datos oficiales de la NASA. 
+## 🧠 Actualmente Aprendiendo
 
-## 🌱 Actualmente estoy aprendiendo
-- **MongoDB** – Bases de datos NoSQL  
-- **NestJS** – Backend moderno con TypeScript  
-- **Flutter avanzado** – Animaciones, integración con APIs y Firebase  
-- **Machine Learning / AI** – Aplicaciones prácticas en Agrovision
+```javascript
+const franDiaz = {
+  stack:    ["React", "Node.js", "Flutter", "NestJS", "Python"],
+  learning: ["MongoDB", "NestJS avanzado", "Flutter Avanzado", "Machine Learning / AI"],
+  focus:    "Integrar IA en plataformas AgTech y educativas",
+  goal:     "Crecer en equipos multidisciplinarios con proyectos de impacto real"
+};
+```
 
-## 📫 Cómo contactarme
-- **Correo:** frandiazzxz@gmail.com  
+---
 
-## ⚡ Dato curioso
-- Aprendiendo a que las estrellas y el código hablen el mismo idioma ✨💻  
+## 📊 Estadísticas GitHub
 
---- 
+<div align="center">
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Franciscooxz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<h3 align="left">Conecta conmigo:</h3>  
+<br/>
 
-<p align="left">  
-<a href="https://github.com/Franciscooxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Franciscooxz" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/Francisco Diaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francisco Diaz" height="30" width="40" /></a>  
-</p>  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Franciscooxz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
+<br/>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>  
+<img src="https://streak-stats.demolab.com?user=Franciscooxz&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-<p align="left">  
-<a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a>  
-</p> 
+</div>
+
+---
+
+## 🔥 Actividad Reciente
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Franciscooxz&theme=github-compact&hide_border=true)](https://github.com/Franciscooxz)
+
+</div>
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### 🗄️ Bases de Datos
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 📱 Mobile & Cross-Platform
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🤖 AI & Data Science
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### 🎨 Diseño & Herramientas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## ⚡ Dato Curioso
+
+> *"Aprendiendo a que las estrellas y el código hablen el mismo idioma"* ✨💻  
+> Cada commit es una coordenada más en el mapa del universo digital.
+
+---
+
+<div align="center">
+
+**¿Tienes un proyecto de impacto? ¡Hablemos!**
+
+📧 [frandiazzxz@gmail.com](mailto:frandiazzxz@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/Francisco-Diaz) · 🐙 [GitHub](https://github.com/Franciscooxz)
+
+</div>
