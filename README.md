@@ -20,10 +20,10 @@ Código limpio, APIs REST, buenas prácticas y un poco de astronomía en el cami
 
 | Proyecto | Descripción | Stack | Estado |
 |----------|-------------|-------|--------|
-| 🌱 [**Agrovision**](https://github.com/Franciscooxz/Agrovision) | Plataforma web AgTech con ML | React + Python + AI | 🔨 En desarrollo |
+| 🌱 [**Agrovision**](https://github.com/Franciscooxz/Agrovision) | Plataforma web AgTech con ML | React + Python + AI | ✅ Activo|
 | 🎮 [**RankHunter**](https://linkedin.com/in/Francisco-Diaz) | Rankings de videojuegos competitivos | NestJS + MongoDB | 🔒 Privado · Ver en LinkedIn |
 | ☄️ [**NEO Tracker**](https://github.com/Franciscooxz/Neo_Tracker) | Monitoreo en tiempo real de asteroides NASA | Node.js + NASA API | ✅ Activo |
-| 🤖 [**Overwatch Quiz Bot**](https://github.com/Franciscooxz/overwatch-quiz-bot) | Bot de trivia de Overwatch para Discord | Node.js + Discord.js | 🔧 En mejora |
+| 🤖 [**Overwatch Quiz Bot**](https://github.com/Franciscooxz/overwatch-quiz-bot) | Bot de trivia de Overwatch para Discord | Node.js + Discord.js | ✅ Activo|
 
 ---
 
